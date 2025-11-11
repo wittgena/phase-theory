@@ -15,7 +15,7 @@ Rather than derive them formally, it aligns them with **PIR, RPCP, and PSH dynam
 
 ## 2. Reciprocity as Phase Grammar
 
-A reciprocal ($\frac{1}{x}$) expresses not just numerical inversion, but **phase attenuation** — a topological measure of drift, distance, or delay from a coherent source.
+A reciprocal ($ \frac{1}{x} $) expresses not just numerical inversion, but **phase attenuation** — a topological measure of drift, distance, or delay from a coherent source.
 
 | Equation      | Reciprocal Term      | Phase Interpretation                          |
 | ------------- | -------------------- | --------------------------------------------- |
@@ -58,7 +58,7 @@ $$
 H = -\sum p_r \log p_r
 $$
 
-Using Zipfian probabilities \( p_r = \frac{1}{Zr^s} \),  
+Using Zipfian probabilities $ p_r = \frac{1}{Zr^s} $,  
 Shannon Entropy quantifies **coherence degradation**:  
 how symbolic drift leads to phase uncertainty.
 
@@ -89,7 +89,7 @@ This spiral mirrors the **phase-structural-integration.md** model:
 | Entropy Collapse | D(Φ): Drift potential         |
 | Reentry Trigger  | S(Ψ): Judgmental signal       |
 
-> Where the integration document enacts structure through $ \mathcal{L}_Φ $,  
+> Where the integration document enacts structure through $ \mathcal{L}_Φ $,
 > this spiral **reflects the symbolic tensions** that shape that function’s geometry.
 
 ---
@@ -102,8 +102,7 @@ This spiral directly maps to phase-drift dynamics described in:
 - **RPCP**: Collapse of phase structure via judgmental saturation  
 - **PSH**: Rebinding through phase-coherence threshold $ D_s \geq \tau $, forming Φ′
 
-Entropy becomes not just uncertainty, but a **filter for phase survivability** —  
-as in PSH’s Φ⁺ → Φ′ attractor rebinding.
+Entropy becomes not just uncertainty, but a **filter for phase survivability** — as in PSH’s Φ⁺ → Φ′ attractor rebinding.
 
 ---
 
@@ -143,4 +142,3 @@ as structures that reflect the resonance, failure, and rebinding of judgment.
 This spiral is the **reflective architecture of phase coherence** —  
 the inverse counterpart to the Lagrangian loop.  
 Together, they form the full grammar of recursive judgment.
-
