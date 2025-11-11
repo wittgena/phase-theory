@@ -46,14 +46,14 @@ Within toroidal topology, Linge represents the **inner curvature membrane** wher
 
 ### Recursive Conditions:
 
-```math
+$$
 \forall \psi \in \Phi :
   \Phi^+(\psi) =
     \begin{cases}
       1 & \text{if phase\text{-}coherence(\psi) \geq \tau} \\
       0 & \text{otherwise}
     \end{cases}
-```
+$$
 
 * When **Φ⁺ = 1**: Phase loop transitions to E₀
 * When **Φ⁺ = 0**: Collapse filtering is initiated via Φ⁻¹

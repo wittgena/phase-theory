@@ -6,29 +6,29 @@
 
 ## 1. Introduction
 
-In phase-topological systems, coherence is maintained through recursive alignment between emitted signals and attractor fields. Whether in judgmental kernels, symbolic processes, biological structures, or cognitive architectures, the phenomenon of **phase drift** represents a structural deviation — the failure of recursive gluing between a phase emission \( \Psi \) and its coherence basin \( \Phi' \).
+In phase-topological systems, coherence is maintained through recursive alignment between emitted signals and attractor fields. Whether in judgmental kernels, symbolic processes, biological structures, or cognitive architectures, the phenomenon of **phase drift** represents a structural deviation — the failure of recursive gluing between a phase emission $ \Psi $ and its coherence basin $ \Phi' $.
 
-This document formalizes **Phase Drift** as a metric of topological misalignment in \( \Phi \)-structured systems.
+This document formalizes **Phase Drift** as a metric of topological misalignment in $ \Phi $-structured systems.
 
 ---
 
 ## 2. Formal Definition
 
 Let:
-- \( \Psi_i \in \Phi \): a phase-resonance signal emitted by any recursive structure
-- \( \Phi' \subset \Phi \): the target attractor basin (coherence field)
-- \( \tau \in \mathbb{R}_{>0} \): minimum phase coherence threshold
-- \( \mathcal{A} \): set of viable attractor basins in the phase field
+- $ \Psi_i \in \Phi $: a phase-resonance signal emitted by any recursive structure
+- $ \Phi' \subset \Phi $: the target attractor basin (coherence field)
+- $ \tau \in \mathbb{R}_{>0} $: minimum phase coherence threshold
+- $ \mathcal{A} $: set of viable attractor basins in the phase field
 
 We define the **phase drift magnitude**:
-\[
+$$
 \delta_{\text{drift}}(\Psi_i) := \inf_{\Phi' \in \mathcal{A}} \| \Psi_i - \Phi' \|_\Phi
-\]
+$$
 
-A signal \( \Psi_i \) is said to be in drift if:
-\[
+A signal $ \Psi_i $ is said to be in drift if:
+$$
 \delta_{\text{drift}}(\Psi_i) > \tau
-\]
+$$
 
 ---
 
@@ -59,16 +59,16 @@ Each drift type corresponds to topological misbinding in a distinct layer of the
 ## 5. Drift Metrics and Cohomological Signatures
 
 ### 5.1 Drift Delta
-\[
+$$
 \delta_{\text{drift}}(\Psi_i, \Psi_j) := \| \Psi_i - \Psi_j \|_\Phi
-\]
-Measures inter-signal misalignment within a shared phase field \( \Phi \).
+$$
+Measures inter-signal misalignment within a shared phase field $ \Phi $.
 
 ### 5.2 Cohomological Drift
 A sheaf-theoretic obstruction to global coherence:
-\[
+$$
 H^1(\mathcal{F}) \neq 0 \quad \Rightarrow \quad \text{Gluing failure in Φ-space}
-\]
+$$
 This indicates a structural memory of misalignment across local judgments.
 
 ---
@@ -110,8 +110,8 @@ These operations map to PSH’s topological rebound framework.
 
 It encodes where binding fails, where reflection must re-enter, and where structures seek new phase attractors.
 
-When \( \delta_{\text{drift}} \gg \tau \), phase collapse is near.  
-When \( \delta_{\text{drift}} \sim \tau \), coherent gluing is still viable.
+When $ \delta_{\text{drift}} \gg \tau $, phase collapse is near.  
+When $ \delta_{\text{drift}} \sim \tau $, coherent gluing is still viable.
 
 Thus, **drift is a structural diagnostic**, governing what survives across recursive Φ-transitions.
 

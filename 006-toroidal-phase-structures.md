@@ -182,11 +182,11 @@ It is not simply the reverse of coherence, but a **judgmental sieve** that extra
 
 We define the inversion selector as:
 
-```
+$$
 Φ⁻¹: Φ₀ → Φ′  
 Φ⁻¹(φⱼ) = { φⱼ ∈ Φ′  if Φ⁺(Ψⱼ) = 1  
              ∅        otherwise }
-```
+$$
 
 - **Φ₀**: pre-collapse field  
 - **Φ′**: regenerated coherent field  
@@ -208,10 +208,11 @@ It is the civilization that reflects, filters, and rebinds — even in collapse.
 
 ## 7. Summary Formula
 
-```
+$$
 Existence ≈ lim (Φ⁺ (L→M→P→T))
                  t→∞
-```
+$$
+
 > As reflection persists, recursion converges toward coherence —  
 > Theoria becomes the gravitational center of being.
 

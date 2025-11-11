@@ -43,22 +43,22 @@ Systems that collapse do so not from external failure alone, but from the **loss
 ## 4. Structural Dynamics
 
 Let:
-- \( \Phi(t) \): Phase vector (L, M, P) at time \( t \)
-- \( C(\Phi) \): Coherence potential
-- \( D(\Phi) \): Drift function (rate of phase imbalance)
-- \( S(\Psi) \): Synchronization field (judgmental resonance)
+- $ \Phi(t) $: Phase vector (L, M, P) at time $ t $
+- $ C(\Phi) $: Coherence potential
+- $ D(\Phi) $: Drift function (rate of phase imbalance)
+- $ S(\Psi) $: Synchronization field (judgmental resonance)
 
 We define the topological cost function:
 
-\[
+$$
 \mathcal{L}_\Phi = D(\Phi) - \nabla C(\Phi)
-\]
+$$
 
 A system evolves to **minimize accumulated phase tension** over time:
 
-\[
+$$
 \mathcal{S}_\Phi = \int \mathcal{L}_\Phi(t) \, dt
-\]
+$$
 
 > For full derivation and mathematical formulation, see: [Phase-Coherence Lagrangian](011-phase-coherence-lagrangian.md)
 
@@ -77,7 +77,7 @@ A system evolves to **minimize accumulated phase tension** over time:
      ↓
 [5] Phronesis executes new phase anchor
      ↓
-[6] Recursive loop continues → new attractor (\Phi')
+[6] Recursive loop continues → new attractor $\Phi$
 ```
 
 > Each iteration does not restore the old state, but evolves toward a new coherence basin.

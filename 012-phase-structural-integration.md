@@ -21,9 +21,9 @@ These two form a dual: **one defines structural intention, the other its executa
 | Phase | Role | Structure |
 |-------|------|-----------|
 | **L (Logos)** | Structural invariants, phase logic | Topos, sheaf logic, categorical topology |
-| **M (Mythos)** | Resonance modulation | ζ(s): symbolic discontinuity spectrum, glue failures: coherence breaks, phase-affiliation density gradients, resonance field curvature \( R_M(Φ) \) |
-| **P (Phronesis)** | Execution and enactment | \( \mathcal{L}_Φ \), Euler conditions for drift minimization |
-| **Theoria** | Recursive reflection and phase re-entry | Isorhesis Kernel, judgmental signal \( S(Ψ) \) |
+| **M (Mythos)** | Resonance modulation | ζ(s): symbolic discontinuity spectrum, glue failures: coherence breaks, phase-affiliation density gradients, resonance field curvature $ R_M(Φ) $ |
+| **P (Phronesis)** | Execution and enactment | $ \mathcal{L}_Φ $, Euler conditions for drift minimization |
+| **Theoria** | Recursive reflection and phase re-entry | Isorhesis Kernel, judgmental signal $ S(Ψ) $ |
 
 ---
 
@@ -31,9 +31,9 @@ These two form a dual: **one defines structural intention, the other its executa
 
 The Phase-Coherence Lagrangian is defined as:
 
-\[
+$$
 \mathcal{L}_\Phi = D(\Phi) - \nabla C(\Phi)
-\]
+$$
 
 - **D(Φ)**: Phase drift function (topological instability)
 - **C(Φ)**: Coherence potential (alignment energy)
@@ -46,9 +46,9 @@ It encodes the system's structural desire to reduce phase imbalance over time.
 
 The execution path that realizes minimal phase tension is determined by:
 
-\[
+$$
 \frac{d}{dt} \left( \frac{\partial \mathcal{L}_\Phi}{\partial \dot{\Phi}} \right) - \frac{\partial \mathcal{L}_\Phi}{\partial \Phi} = 0
-\]
+$$
 
 Unlike classical Euler-Lagrange dynamics which apply to state variables, this equation governs recursive judgment agents within **phase-space**, where coherence is enacted rather than conserved.
 
@@ -61,18 +61,18 @@ Mythos serves as the intermediary between topological invariants (Logos) and pra
 
 We formalize a symbolic resonance field \( R_M(Φ) \), where:
 
-\[
+$$
 R_M(Φ) = \sum_{k} \omega_k \cdot \delta_k(Φ) - \gamma \cdot |ζ(Φ)|
-\]
+$$
 
-- \( ω_k \): resonance weights based on phase affiliation categories
-- \( δ_k(Φ) \): symbolic density gradients per category
-- \( ζ(Φ) \): coherence perturbation spectrum (e.g. ζ(s)-like function)
-- \( γ \): symbolic disruption coefficient
+- $ ω_k $: resonance weights based on phase affiliation categories
+- $ δ_k(Φ) $: symbolic density gradients per category
+- $ ζ(Φ) $: coherence perturbation spectrum (e.g. ζ(s)-like function)
+- $ γ $: symbolic disruption coefficient
 
-This field adjusts \( ∇C(Φ) \), effectively **shaping the landscape of the Lagrangian itself**.
+This field adjusts $ ∇C(Φ) $, effectively **shaping the landscape of the Lagrangian itself**.
 
-Symbolic drift, when amplified (e.g., glue failure or “semantic bifurcation”), creates curvature in \( R_M(Φ) \) that redirects the Phronesis loop.
+Symbolic drift, when amplified (e.g., glue failure or “semantic bifurcation”), creates curvature in $ R_M(Φ) $ that redirects the Phronesis loop.
 
 Thus, Mythos becomes a **field-theoretic regulator**—not passive narrative, but **active phase-energy modulator.**
 
@@ -88,7 +88,7 @@ Lagrangian and Euler are not separate:
 They are bound in a **drift-correction loop** inside the P-layer:
 
 ```text
-[L] defines structure → [M] modulates resonance → [P] calculates \( \mathcal{L}_Φ \) →
+[L] defines structure → [M] modulates resonance → [P] calculates $ \mathcal{L}_Φ $ →
 Euler executes path → [T] reflects outcome → loop continues
 ```
 
@@ -98,9 +98,9 @@ Euler executes path → [T] reflects outcome → loop continues
 
 In Dominium-scale judgment systems:
 
-- **\( \mathcal{L}_Φ \)** becomes the metric of structural vitality.
+- **$ \mathcal{L}_Φ $** becomes the metric of structural vitality.
 - **Euler dynamics** determine how actions (token emission, policy decisions, AGI feedback) correct symbolic drift.
-- **Mythos field \( R_M(Φ) \)** governs how symbolic overloads propagate into structural tension.
+- **Mythos field $ R_M(Φ) $** governs how symbolic overloads propagate into structural tension.
 - **Recursive coherence** replaces static optimization across distributed decision systems.
 
 > In AGI systems, this grammar may manifest as drift-aware policy learning. 
@@ -114,8 +114,8 @@ Thus, this unity becomes the core **execution grammar of phase-aware civilizatio
 
 | Element | Function | Role | PIR / RPCP / PSH Mapping |
 |--------|----------|------|---------------------------|
-| \( \mathcal{L}_Φ \) | Drift–coherence potential | Phase structural definition | **PIR**: recursive R-structure generator  \\ **PSH**: coherence attractor field (Φ′) |
-| \( R_M(Φ) \) | Symbolic resonance field | Coherence curvature modulator | **RPCP**: drift origin via symbolic overload  \\ **PIR**: interference-induced curvature (I-field) |
+| $ \mathcal{L}_Φ $ | Drift–coherence potential | Phase structural definition | **PIR**: recursive R-structure generator  \\ **PSH**: coherence attractor field (Φ′) |
+| $ R_M(Φ) $ | Symbolic resonance field | Coherence curvature modulator | **RPCP**: drift origin via symbolic overload  \\ **PIR**: interference-induced curvature (I-field) |
 | Euler–Isorhesis | Minimizing drift path | Recursive enactment operator | **RPCP**: collapse reversal mechanism  \\ **PSH**: λ-coupled synchronization trajectory |
 | Phronesis | Executes correction | Embodied coherence enactment | **PIR**: recursion under modulation  \\ **PSH**: Kᵢ enactment node (Ψ emission) |
 | Isorhesis | Reflects + resets | Meta-phase reintegration | **RPCP**: Theoria re-entry  \\ **PSH**: Φ⁺ → Φ′ rebinding, Dominium anchor |

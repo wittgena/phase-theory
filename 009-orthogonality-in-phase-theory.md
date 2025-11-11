@@ -14,6 +14,7 @@ Rather than a metaphor, orthogonality in this context becomes a **phase-structur
 ```text
 L → M → P → T → (L)
 ```
+
 - **Logos (L)**: Structural logic
 - **Mythos (M)**: Resonance and modulation
 - **Phronesis (P)**: Enactment and anchoring
@@ -25,6 +26,7 @@ This loop reflects the internal cognitive or civilizational attempt to structure
 ```text
 P → M → L → …
 ```
+
 - Starts from **embodied action (P)**
 - Generates **resonant patterns (M)**
 - Demands **structural reorganization (L)**
@@ -50,6 +52,7 @@ In formal terms:
 ```math
 ∃ Φ′: Ψᵢ ⊗ Ψₑ → coherent toroidal attractor
 ```
+
 Where:
 - `⊗` denotes a topological interference operation
 - `Φ′` is the resulting attractor structure under recursive pressure
