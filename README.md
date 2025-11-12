@@ -15,16 +15,6 @@ but extends beyond execution — toward **recursive structures of existential al
 
 ---
 
-## Structure
-
-1. **lmp-theoria-kernel** — base judgment loop  
-2. **kernel-expansion** — structural roles of Mythos & Phronesis  
-3. **PIR** — phase interference recursion  
-4. **RPCP** — recursive phase collapse pattern  
-5. **Phase-Sync** — re-alignment hypothesis
-
----
-
 ## Philosophical Context
 
 This repository is part of a broader inquiry into:
