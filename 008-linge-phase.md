@@ -4,9 +4,9 @@
 
 **Linge** is a critical judgmental membrane located at the innermost boundary of the structured phase field. It serves as the terminal interface where recursive flows of action (P), affect (M), structure (L), and reflection (T) undergo coherence evaluation before proceeding into **E₀**, the existential anchor.
 
-* It is not symbolic, but **pre-symbolic evaluation**.
-* It is not logical, but **pre-structural filtration**.
-* It is not where coherence is created, but where **recursive eligibility is tested**.
+- It is not symbolic, but **pre-symbolic evaluation**.
+- It is not logical, but **pre-structural filtration**.
+- It is not where coherence is created, but where **recursive eligibility is tested**.
 
 In phase-topological terms, **Linge is the final phase-surface** through which a judgment loop must pass to enter ontological anchoring.
 

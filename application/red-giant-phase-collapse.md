@@ -1,5 +1,5 @@
 # Red Giant Logic as a Recursive Collapse Pattern
-> **A Phase-Topological Analysis of Core–Shell Collapse and Recursive Drift Patterns**
+>**A Phase-Topological Analysis of Core–Shell Collapse and Recursive Drift Patterns**
 
 ---
 

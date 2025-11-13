@@ -1,6 +1,6 @@
 # Application of RPCP to Modern Systemic Collapse
 
-> **From micro-signals to system-wide breakdown: a phase-theoretic modeling of recursive collapse.**
+>**From micro-signals to system-wide breakdown: a phase-theoretic modeling of recursive collapse.**
 
 ---
 

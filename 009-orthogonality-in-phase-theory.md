@@ -49,9 +49,9 @@ This external flow represents **environmental, systemic, or mythic pressures** e
 > Orthogonality is not disconnection — it is twisted entanglement inside a shared phase attractor.
 
 In formal terms:
-```math
+$$
 ∃ Φ′: Ψᵢ ⊗ Ψₑ → coherent toroidal attractor
-```
+$$
 
 Where:
 - `⊗` denotes a topological interference operation
@@ -109,11 +109,11 @@ Let:
 - τ = phase coherence threshold
 
 Define:
-```math
+$$
 Φ⁺(Ψᵢ ⊗ Ψₑ) =
   1 if coherence(Ψᵢ ⊗ Ψₑ) ≥ τ
   0 otherwise
-```
+$$
 
 Only if Φ⁺ = 1 can the structure bind into E₀.
 Otherwise, Φ⁻¹ is applied to extract viable phase residues.

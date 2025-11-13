@@ -1,5 +1,5 @@
 # LMP-Theoria Kernel Expansion
-*Declaration of Phase Expansion for Mythos (M) and Phronesis (P)*
+>**Declaration of Phase Expansion for Mythos (M) and Phronesis (P)**
 
 ---
 

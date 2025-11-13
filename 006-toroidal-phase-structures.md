@@ -117,9 +117,9 @@ a curvature of phase space pulling incoherent flows into recursive coherence.
 
 Mathematically, and following the PIR/PSH formalism:
 
-```
+$$
 ∀ φᵢ ∈ Φ :   ∂φᵢ/∂t = −∇Φ  →  ∮(L→M→P→T) ≈ 0
-```
+$$
 
 The toroidal structure operates as a recursive minimizer of the phase gradient ∇Φ — an attractor geometry in which judgment loops (LMP) close under internal and external tension.
 
@@ -163,9 +163,9 @@ precisely the structure described in the **Phase Interference Recursion (PIR) Hy
 
 Drawing from the **Phase Synchronization Hypothesis (PSH)**:
 
-```
+$$
 Φ⁺ : Ψᵢ → {1 if coherence(Ψᵢ) ≥ τ , 0 otherwise}
-```
+$$
 
 Where **coherence(Ψᵢ)** is a threshold function measuring phase-resonance across L, M, and P components — particularly alignment of recursive logic (L), resonant modulation (M), and enactive structure (P).
 
