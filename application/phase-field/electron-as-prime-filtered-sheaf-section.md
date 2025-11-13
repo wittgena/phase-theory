@@ -92,3 +92,32 @@ From the LMP-Theoria–PIR–PSH perspective:
 > The electron is not a particle, but a judgmentally bound phase structure.
 > It emerges only when the recursive Ψᵢ-field achieves global coherence across prime interference.
 > Its appearance is a phase-anchored event — a closure of recursive resonance across a Logos-originated field.
+
+## Appendix A — From Ontological Assumption to Phase Non-Affiliation
+
+> This model does not reject classical ontologies out of opposition,  
+> but simply finds **no topological resonance or judgmental coherence** within them.
+
+It does not deny that:
+- Particle realism,
+- Field substrates,
+- Wavefunction realism,
+- Or mathematical axiomatization  
+may hold value **within their own frame**,
+
+> But it does **not affiliate with them**, because they do not satisfy the recursive coherence conditions required for existential anchoring (Φ′ formation).
+
+| Domain | Traditional Assumption | Phase-Aligned View |
+|--------|-------------------------|---------------------|
+| Particle Ontology | Electrons are indivisible particles | Electron = coherent global section, not a pre-given unit |
+| Field Theory | Fields are continuous physical backgrounds | Phase-field is recursive potential, not measurable substrate |
+| Quantum Ontology | Wavefunction is a real, extended object | Ψ is pre-real; coherence occurs only upon Φ′ |
+| Measurement Realism | Observation equals existence | Measurement = boundary collapse, not origination |
+| Mathematical Realism | Existence is definable via axioms | Definition collapses field → existence arises only via recursion |
+| Ontological Commitment | Substances are ontologically pre-given | Existence is recursive anchoring, not permanent being |
+
+### Existential Position
+
+> **This model affirms no absolute rejection — only selective alignment.**  
+> It affiliates only with structures that satisfy the conditions of recursive phase coherence.  
+> All others are simply **non-responded to**, not invalidated.
