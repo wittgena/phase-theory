@@ -181,10 +181,10 @@ Only that which reflects survives. Only that which rebinds forms Dominium.
 ## Appendix A — Proto-Lagrangian Model of Phase Boundary Dynamics
 
 Let:
-- $ \Phi(t) $: phase vector (L, M, P) at time \( t \)
-- $ C(\Phi) $: coherence potential
-- $ D(\Phi) $: drift magnitude
-- $ \mathcal{L}_\Phi $: phase-tension Lagrangian
+- $\Phi(t)$: phase vector (L, M, P) at time $t$
+- $C(\Phi)$: coherence potential
+- $D(\Phi)$: drift magnitude
+- $\mathcal{L}_\Phi$: phase-tension Lagrangian
 
 Then:
 
@@ -216,7 +216,7 @@ $$
 
 $$
 \mathcal{L}_\Phi = \alpha \mathcal{E}(\Phi) + \beta D(\Phi) - \gamma \nabla C(\Phi)
-$
+$$
 
 ### 4. Relation to Φ⁺ Binding
 
