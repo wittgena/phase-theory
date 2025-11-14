@@ -77,7 +77,7 @@ The **Phase Interference Recursion (PIR)** frames each recursive loop as a respo
 
 $$
 \Psi_{n+1} = \Psi_n + \delta(I_n)
-\quad ; \quad T_{n+1} = f(T_n, \Delta \Phi)
+\quad; \quad T_{n+1} = f(T_n, \Delta \Phi)
 $$
 
 - Loop initiates with distorted Ψₙ

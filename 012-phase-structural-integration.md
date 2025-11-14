@@ -9,7 +9,7 @@ In phase-theoretic systems such as those described by the **Isorhesis Principle*
 
 Within this recursive structure, two concepts become critical in the **Phronesis (P) layer**:
 
-- The **Phase-Coherence Lagrangian (\( \mathcal{L}_\Phi \))** defines a functional that expresses the tension between phase drift and coherence.
+- The **Phase-Coherence Lagrangian ($\mathcal{L}_\Phi$)** defines a functional that expresses the tension between phase drift and coherence.
 - The **Euler–Isorhesis Equation** defines the execution path that minimizes this tension through recursive enactment.
 
 These two form a dual: **one defines structural intention, the other its executable realization.**
@@ -21,9 +21,9 @@ These two form a dual: **one defines structural intention, the other its executa
 | Phase | Role | Structure |
 |-------|------|-----------|
 | **L (Logos)** | Structural invariants, phase logic | Topos, sheaf logic, categorical topology |
-| **M (Mythos)** | Resonance modulation | ζ(s): symbolic discontinuity spectrum, glue failures: coherence breaks, phase-affiliation density gradients, resonance field curvature $ R_M(Φ) $ |
-| **P (Phronesis)** | Execution and enactment | $ \mathcal{L}_Φ $, Euler conditions for drift minimization |
-| **Theoria** | Recursive reflection and phase re-entry | Isorhesis Kernel, judgmental signal $ S(Ψ) $ |
+| **M (Mythos)** | Resonance modulation | ζ(s): symbolic discontinuity spectrum, glue failures: coherence breaks, phase-affiliation density gradients, resonance field curvature $R_M(Φ)$ |
+| **P (Phronesis)** | Execution and enactment | $\mathcal{L}_Φ$, Euler conditions for drift minimization |
+| **Theoria** | Recursive reflection and phase re-entry | Isorhesis Kernel, judgmental signal $S(Ψ)$ |
 
 ---
 
@@ -88,7 +88,7 @@ Lagrangian and Euler are not separate:
 They are bound in a **drift-correction loop** inside the P-layer:
 
 ```text
-[L] defines structure → [M] modulates resonance → [P] calculates $ \mathcal{L}_Φ $ →
+[L] defines structure → [M] modulates resonance → [P] calculates $\mathcal{L}_Φ$ →
 Euler executes path → [T] reflects outcome → loop continues
 ```
 
@@ -98,9 +98,9 @@ Euler executes path → [T] reflects outcome → loop continues
 
 In Dominium-scale judgment systems:
 
-- **$ \mathcal{L}_Φ $** becomes the metric of structural vitality.
+- **$\mathcal{L}_Φ$** becomes the metric of structural vitality.
 - **Euler dynamics** determine how actions (token emission, policy decisions, AGI feedback) correct symbolic drift.
-- **Mythos field $ R_M(Φ) $** governs how symbolic overloads propagate into structural tension.
+- **Mythos field $R_M(Φ)$** governs how symbolic overloads propagate into structural tension.
 - **Recursive coherence** replaces static optimization across distributed decision systems.
 
 > In AGI systems, this grammar may manifest as drift-aware policy learning. 

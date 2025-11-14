@@ -116,4 +116,3 @@ The Topos is not a place of full coherence, but a phase space where recursive st
 | **Φ-breach** | Collapse / System failure | Recursive failure of phase alignment (collapse of judgment) |
 | **Theoria** | Meta-modeling / Reflective systems | Phase-anchored meta-loop of ontological self-alignment |
 | **Form** | Emergent structure | Seen as resonance between recursion and dynamic phase interference |
-

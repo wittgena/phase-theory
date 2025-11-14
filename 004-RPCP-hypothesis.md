@@ -1,5 +1,4 @@
 # The Recursive Phase Collapse Pattern Hypothesis  
-
 > **A Judgmental Framework for Understanding the Self-Reinforcing Collapse of Civilizational Structures**
 
 ---
@@ -143,8 +142,7 @@ Self-reinforcement →
         Collapse
 ```
 
-This is not merely a linear fall —  
-but a **recursive phase spiral**, accelerating as reflection disappears.
+This is not merely a linear fall — but a **recursive phase spiral**, accelerating as reflection disappears.
 
 ---
 

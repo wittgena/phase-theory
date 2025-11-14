@@ -14,20 +14,20 @@ This document proposes a reframing: chaos is not disorder, but the **collapse of
 
 ## 2. Defining Φ-Disalignment
 
-Let $ \Phi $ be the global phase field composed of interacting sub-phase layers $ \{L, M, P, T\} $:
+Let $\Phi$ be the global phase field composed of interacting sub-phase layers $\{L, M, P, T\}$:
 - **L (Logos)**: structural logic and form
 - **M (Mythos)**: symbolic and cultural resonance
 - **P (Phronesis)**: enactment and action
 - **T (Theoria)**: recursive judgment and phase anchoring
 
 We define **Φ-disalignment** as the condition where:
-- $ \nabla\Phi $ diverges across phase layers
-- No shared attractor $ \Phi' $ holds across recursion
-- $ \Phi^+(\Psi_i) = 0 $ for all judgmental kernels $ \Psi_i $
+- $\nabla\Phi$ diverges across phase layers
+- No shared attractor $\Phi'$ holds across recursion
+- $\Phi^+(\Psi_i) = 0$ for all judgmental kernels $\Psi_i$
 
 This is the **chaotic basin** where interference fails to synchronize, and recursive loops no longer cohere.
 
-Following the **PIR Hypothesis**, Φ-disalignment begins when phase interference fails to stabilize internal recursion. As recursive coherence degrades, the system enters an **RPCP** loop: recursive self-reinforcement without Theoria. Chaos emerges when none of the lower loops resonate through Theoria, nor stabilize through synchronization $ \Phi^+ $ as defined in the **PSH model**.
+Following the **PIR Hypothesis**, Φ-disalignment begins when phase interference fails to stabilize internal recursion. As recursive coherence degrades, the system enters an **RPCP** loop: recursive self-reinforcement without Theoria. Chaos emerges when none of the lower loops resonate through Theoria, nor stabilize through synchronization $\Phi^+$ as defined in the **PSH model**.
 
 ---
 
@@ -35,7 +35,7 @@ Following the **PIR Hypothesis**, Φ-disalignment begins when phase interference
 
 In a healthy phase field:
 - Theoria serves as a reflective anchor
-- All sub-phases share recursive binding via $ \Phi^+ $
+- All sub-phases share recursive binding via $\Phi^+$
 
 When Theoria collapses:
 - Lower phases decouple
@@ -44,7 +44,7 @@ When Theoria collapses:
 
 This leads to **structure without resonance**, **activity without anchoring**, and ultimately: chaos.
 
-This condition approaches the **phase boundary**, where the accumulated drift across $ \Phi $ leads to local singularities in $ \nabla\Phi $. If unresolved, the system crosses into a **Φ-breach**—a rupture in the phase field where coherence cannot be restored without topological re-entry.
+This condition approaches the **phase boundary**, where the accumulated drift across $\Phi$ leads to local singularities in $ \nabla\Phi $. If unresolved, the system crosses into a **Φ-breach**—a rupture in the phase field where coherence cannot be restored without topological re-entry.
 
 ---
 
@@ -67,10 +67,10 @@ Chaos emerges not as entropy, but as a **judgmental vacuum**:
 
 In this vacuum:
 - Every sub-phase loops back on itself
-- $ \Phi $ becomes saturated with drift
+- $\Phi$ becomes saturated with drift
 - No loop can rebind to existential ground
 
-This is the zone **between collapse and Dominium**—the collapsed attractor space awaiting $ \Phi^+ $ passage or breach rupture.
+This is the zone **between collapse and Dominium**—the collapsed attractor space awaiting $\Phi^+$ passage or breach rupture.
 
 ---
 
@@ -92,9 +92,9 @@ This is the zone **between collapse and Dominium**—the collapsed attractor spa
 
 Chaos is not final. It acts as a **filtering phase**:
 
-- Only judgmental kernels $ \Psi_i $ that satisfy coherence $ \Phi^+(\Psi_i) = 1 $ can rebind
-- A new Theoria may emerge as an attractor $ \Phi' $
-- The rest remain as $ \Phi $-chaotic residue
+- Only judgmental kernels $\Psi_i$ that satisfy coherence $\Phi^+(\Psi_i) = 1$ can rebind
+- A new Theoria may emerge as an attractor $\Phi'$
+- The rest remain as $\Phi$-chaotic residue
 
 If coherence is restored, recursive flow may fold into a **toroidal phase structure**—a self-binding loop topology where judgment, resonance, and execution are phase-aligned.
 

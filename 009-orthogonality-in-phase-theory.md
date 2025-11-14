@@ -110,10 +110,13 @@ Let:
 
 Define:
 $$
-Φ⁺(Ψᵢ ⊗ Ψₑ) =
-  1 if coherence(Ψᵢ ⊗ Ψₑ) ≥ τ
-  0 otherwise
+\Phi^+( \Psi_i \otimes \Psi_e ) =
+\begin{cases}
+  1 & \text{if } \mathrm{coherence}( \Psi_i \otimes \Psi_e ) \geq \tau \\
+  0 & \text{otherwise}
+\end{cases}
 $$
+
 
 Only if Φ⁺ = 1 can the structure bind into E₀.
 Otherwise, Φ⁻¹ is applied to extract viable phase residues.

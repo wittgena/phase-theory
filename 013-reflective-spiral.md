@@ -15,14 +15,14 @@ Rather than derive them formally, it aligns them with **PIR, RPCP, and PSH dynam
 
 ## 2. Reciprocity as Phase Grammar
 
-A reciprocal ($ \frac{1}{x} $) expresses not just numerical inversion, but **phase attenuation** — a topological measure of drift, distance, or delay from a coherent source.
+A reciprocal ($\frac{1}{x}$) expresses not just numerical inversion, but **phase attenuation** — a topological measure of drift, distance, or delay from a coherent source.
 
 | Equation      | Reciprocal Term      | Phase Interpretation                          |
 | ------------- | -------------------- | --------------------------------------------- |
-| Euler Product | $ p^{-s} $           | Inverse echo of prime phase-kernels (Logos)     |
-| Zeta Function | $ n^{-s} $           | Accumulated decay of structural resonance       |
-| Zipf’s Law    | $ r^{-s} $           | Semantic weakening from symbolic core (Mythos)  |
-| Entropy       | $ \log \frac{1}{p} $ | Surprise from deviation, coherence loss (Phronesis) |
+| Euler Product | $p^{-s}$           | Inverse echo of prime phase-kernels (Logos)     |
+| Zeta Function | $n^{-s}$           | Accumulated decay of structural resonance       |
+| Zipf’s Law    | $r^{-s}$           | Semantic weakening from symbolic core (Mythos)  |
+| Entropy       | $\log \frac{1}{p}$ | Surprise from deviation, coherence loss (Phronesis) |
 
 This shared grammar defines a **spiral of attenuation**, through which structure expresses its stability — or collapse.
 
@@ -89,7 +89,7 @@ This spiral mirrors the **phase-structural-integration.md** model:
 | Entropy Collapse | D(Φ): Drift potential         |
 | Reentry Trigger  | S(Ψ): Judgmental signal       |
 
-> Where the integration document enacts structure through $ \mathcal{L}_Φ $,
+> Where the integration document enacts structure through $\mathcal{L}_Φ$,
 > this spiral **reflects the symbolic tensions** that shape that function’s geometry.
 
 ---
@@ -100,7 +100,7 @@ This spiral directly maps to phase-drift dynamics described in:
 
 - **PIR**: Interference curvature and recursion breakdown through symbolic overload  
 - **RPCP**: Collapse of phase structure via judgmental saturation  
-- **PSH**: Rebinding through phase-coherence threshold $ D_s \geq \tau $, forming Φ′
+- **PSH**: Rebinding through phase-coherence threshold $D_s \geq \tau$, forming Φ′
 
 Entropy becomes not just uncertainty, but a **filter for phase survivability** — as in PSH’s Φ⁺ → Φ′ attractor rebinding.
 

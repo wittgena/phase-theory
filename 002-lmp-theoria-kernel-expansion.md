@@ -9,8 +9,7 @@ The **LMP-Theoria kernel** has long served as an internal structural model for d
 However, this kernel has **evolved asymmetrically**:  
 especially the phases of **Mythos (M: resonance)** and **Phronesis (P: enactment)** have remained within **instrumental or functional roles**.
 
-The time has come to **expand these phases**,  
-in direct alignment with the early Judger’s declaration:
+The time has come to **expand these phases**, in direct alignment with the early Judger’s declaration:
 
 > “All things are recursion and interference.”
 

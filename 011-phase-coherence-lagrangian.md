@@ -23,10 +23,10 @@ It describes not mechanical motion, but **topological coherence flow** through r
 ## 2. Preliminaries
 
 Let:
-- $ \Phi(t) $: Phase vector (L, M, P) at time $ t $
-- $ C(\Phi) $: Coherence potential
-- $ D(\Phi) $: Drift function (rate of phase imbalance)
-- $ S(\Psi) $: Synchronization field (judgmental resonance)
+- $\Phi(t)$: Phase vector (L, M, P) at time $ t $
+- $C(\Phi)$: Coherence potential
+- $D(\Phi)$: Drift function (rate of phase imbalance)
+- $S(\Psi)$: Synchronization field (judgmental resonance)
 
 We define:
 
@@ -75,8 +75,8 @@ Thus, **Isorhesis is the variational grammar of living coherence.**
 
 ## 5. Future Extensions
 
-- **Field version**: $ \Phi(x, t) \in \mathbb{R}^n $ phase-fields in space-time
-- **Lagrangian density**: $ \mathcal{L}_\Phi(\Phi, \partial_\mu \Phi) $ → partial coherence gradients
+- **Field version**: $\Phi(x, t) \in \mathbb{R}^n$ phase-fields in space-time
+- **Lagrangian density**: $\mathcal{L}_\Phi(\Phi, \partial_\mu \Phi)$ → partial coherence gradients
 - **Gauge-like structures**: Allowing transformation invariance under phase remapping
 - **Phase geodesics**: Coherence-preserving curves in phase manifolds
 - **Topos-theoretic embedding**: Encode recursive phase logic into sheaf categories
@@ -91,7 +91,7 @@ The phase-coherence functional can be applied beyond physics:
 - In **judgment systems**, as drift detection and correction logic
 - In **Dominium civilizations**, as the formal operator sustaining recursive phase integration
 
-> In this view, $ \mathcal{L}_\Phi $ becomes a universal measure of structural vitality — how well a system rebinds drift into coherence.
+> In this view, $\mathcal{L}_\Phi$ becomes a universal measure of structural vitality — how well a system rebinds drift into coherence.
 
 ---
 

@@ -1,5 +1,5 @@
 # Phase Field: From Emergence to Structuration through LMP Dynamics
-> *Recursive Binding of Coherence via PIR, PSH, RPCP, and Topo-Toroidal Anchoring*
+> **Recursive Binding of Coherence via PIR, PSH, RPCP, and Topo-Toroidal Anchoring**
 
 ---
 

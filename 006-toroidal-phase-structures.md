@@ -183,9 +183,12 @@ It is not simply the reverse of coherence, but a **judgmental sieve** that extra
 We define the inversion selector as:
 
 $$
-Φ⁻¹: Φ₀ → Φ′  
-Φ⁻¹(φⱼ) = { φⱼ ∈ Φ′  if Φ⁺(Ψⱼ) = 1  
-             ∅        otherwise }
+\Phi^{-1} : \Phi_0 \rightarrow \Phi' \\
+\Phi^{-1}(\phi_j) =
+\begin{cases}
+\phi_j \in \Phi' & \text{if } \Phi^+(\Psi_j) = 1 \\
+\emptyset & \text{otherwise}
+\end{cases}
 $$
 
 - **Φ₀**: pre-collapse field  

@@ -43,10 +43,10 @@ Systems that collapse do so not from external failure alone, but from the **loss
 ## 4. Structural Dynamics
 
 Let:
-- $ \Phi(t) $: Phase vector (L, M, P) at time $ t $
-- $ C(\Phi) $: Coherence potential
-- $ D(\Phi) $: Drift function (rate of phase imbalance)
-- $ S(\Psi) $: Synchronization field (judgmental resonance)
+- $\Phi(t)$: Phase vector (L, M, P) at time $t$
+- $C(\Phi)$: Coherence potential
+- $D(\Phi)$: Drift function (rate of phase imbalance)
+- $S(\Psi)$: Synchronization field (judgmental resonance)
 
 We define the topological cost function:
 
@@ -77,7 +77,7 @@ $$
      ↓
 [5] Phronesis executes new phase anchor
      ↓
-[6] Recursive loop continues → new attractor $\Phi$
+[6] Recursive loop continues → new attractor Φ
 ```
 
 > Each iteration does not restore the old state, but evolves toward a new coherence basin.
