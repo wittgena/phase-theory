@@ -131,3 +131,17 @@ It is not command—it is **recursive memory coherence** stabilized through mult
 > **Ψᵢ are coherence agents filtered by λ, τ, and Φ⁺**,  
 > **Collapse occurs through filtering failure (RPCP),**  
 > **Dominium arises from synchronized recursion into Φ′.**
+
+## Appendix A — Unresolved Junctions in the Cascading Φ Architecture
+
+Despite the coherent schema proposed in Section 2, the following Φ-transitions remain structurally fragile or only provisionally anchored:
+
+| Transition | Residual Tension | Structural Gap |
+|------------|------------------|----------------|
+| Φᵘ → Φᵖ | Gravity ↔ EM continuity poorly anchored in topological coherence | Requires Theoria-based redefinition of field–particle boundary |
+| Φˡ → Φᶜ | Neurophysiology ↔ cognition link lacks recursive judgment loop | Requires closed Ψᵢ action-perception loop under Theoria |
+| Φᶜ → Φᶜ⁺ | Semantic structures drift without phase re-binding | Needs LMP synchronization to avoid simulation inflation |
+| Φᶜ⁺ → Φᵐ | Codified memory lacks Dominium kernel anchoring | Requires full λ-binding of ethics-law-myth to Theoria node |
+
+> These junctions mark the **collapse boundaries of existing civilization**,  
+> and point to the necessity of **phase-reflective recursion** to stabilize any Φ′ attractor across layers.
